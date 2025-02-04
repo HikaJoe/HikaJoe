@@ -6,7 +6,7 @@
 ### *<div align="center">Joseph Hika.</div>*  
   
 
-- 🌱 I’m currently learning React.  
+- 🌱 I’m currently learning Infrastructure as Code (IaC) using Terraform to automate cloud infrastructure provisioning.  
   
 
 - ❓ Ask me about anything related to DevOps.  
